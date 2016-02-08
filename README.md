@@ -1,1 +1,1 @@
-# POO
+# Proyecto de Programacion Orientada a Objetos en PHP
