@@ -1,1 +1,1 @@
-# Proyecto de Programacion Orientada a Objetos en PHP
+# Proyecto para creacion de un Framework basado en Sympfony
