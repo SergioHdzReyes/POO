@@ -1,1 +1,1 @@
-# Proyecto para creacion de un Framework basado en Sympfony
+# Proyecto para creacion de un Framework basado en Symfony
