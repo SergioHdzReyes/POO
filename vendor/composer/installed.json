@@ -55,17 +55,17 @@
     },
     {
         "name": "symfony/routing",
-        "version": "v3.0.2",
-        "version_normalized": "3.0.2.0",
+        "version": "v3.0.3",
+        "version_normalized": "3.0.3.0",
         "source": {
             "type": "git",
             "url": "https://github.com/symfony/routing.git",
-            "reference": "4686baa55a835e1c1ede9b86ba02415c8c8d6166"
+            "reference": "fa1e9a8173cf0077dd995205da453eacd758fdf6"
         },
         "dist": {
             "type": "zip",
-            "url": "https://api.github.com/repos/symfony/routing/zipball/4686baa55a835e1c1ede9b86ba02415c8c8d6166",
-            "reference": "4686baa55a835e1c1ede9b86ba02415c8c8d6166",
+            "url": "https://api.github.com/repos/symfony/routing/zipball/fa1e9a8173cf0077dd995205da453eacd758fdf6",
+            "reference": "fa1e9a8173cf0077dd995205da453eacd758fdf6",
             "shasum": ""
         },
         "require": {
@@ -88,9 +88,10 @@
             "symfony/config": "For using the all-in-one router or any loader",
             "symfony/dependency-injection": "For loading routes from a service",
             "symfony/expression-language": "For using expression matching",
+            "symfony/http-foundation": "For using a Symfony Request object",
             "symfony/yaml": "For using the YAML loader"
         },
-        "time": "2016-01-27 05:14:46",
+        "time": "2016-02-04 13:53:13",
         "type": "library",
         "extra": {
             "branch-alias": {
